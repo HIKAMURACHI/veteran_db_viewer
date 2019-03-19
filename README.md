@@ -1,8 +1,8 @@
-veteran_db_viewer
-├─IDE
-│ └─VS17
-├─Language
-│ └─C#
-└─DBMS 
-  ├─Server: MySQL 8.0
-  └─Connector: MySQL 4.5.2
+veteran_db_viewer_
+├─IDE_
+│ └─VS17_
+├─Language_
+│ └─C#_
+└─DBMS_
+  ├─Server: MySQL 8.0_
+  └─Connector: MySQL 4.5.2_
